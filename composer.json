@@ -3,11 +3,11 @@
     "description":"moova.io fork for esbenp/laravel-api-consumer package",
     "homepage":"https://github.com/moovaio/laravel-api-consumer",
     "require": {
-        "laravel/framework": "^7.0"
+        "laravel/framework": "^8.0"
     },
     "require-dev": {
-        "phpunit/phpunit": "^8.5",
-        "orchestra/testbench": "5.*",
+        "phpunit/phpunit": "^9.0",
+        "orchestra/testbench": "6.*",
         "mockery/mockery": "1.3.*",
         "php-coveralls/php-coveralls": "2.2.*"
     },
